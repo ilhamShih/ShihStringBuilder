@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/ShihStringBuilder.iml" filepath="$PROJECT_DIR$/.idea/modules/ShihStringBuilder.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/ShihStringBuilder.app.iml" filepath="$PROJECT_DIR$/.idea/modules/app/ShihStringBuilder.app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/ShihStringBuilder.app.androidTest.iml" filepath="$PROJECT_DIR$/.idea/modules/app/ShihStringBuilder.app.androidTest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/ShihStringBuilder.app.main.iml" filepath="$PROJECT_DIR$/.idea/modules/app/ShihStringBuilder.app.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/ShihStringBuilder.app.unitTest.iml" filepath="$PROJECT_DIR$/.idea/modules/app/ShihStringBuilder.app.unitTest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/shihstringbuilder/ShihStringBuilder.shihstringbuilder.iml" filepath="$PROJECT_DIR$/.idea/modules/shihstringbuilder/ShihStringBuilder.shihstringbuilder.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/shihstringbuilder/ShihStringBuilder.shihstringbuilder.androidTest.iml" filepath="$PROJECT_DIR$/.idea/modules/shihstringbuilder/ShihStringBuilder.shihstringbuilder.androidTest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/shihstringbuilder/ShihStringBuilder.shihstringbuilder.main.iml" filepath="$PROJECT_DIR$/.idea/modules/shihstringbuilder/ShihStringBuilder.shihstringbuilder.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/shihstringbuilder/ShihStringBuilder.shihstringbuilder.unitTest.iml" filepath="$PROJECT_DIR$/.idea/modules/shihstringbuilder/ShihStringBuilder.shihstringbuilder.unitTest.iml" />
+    </modules>
+  </component>
+</project>
