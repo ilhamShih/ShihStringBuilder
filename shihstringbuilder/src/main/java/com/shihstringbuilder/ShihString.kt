@@ -9,6 +9,8 @@ class ShihString(mStringBuilder: StringBuilder, siz: Float, show: Boolean) : Str
 ) {
     /**
      * Добавить одну запись в конструктор
+     * Пример
+     * @param mShihString.addStringToBuilder("Value_1 Value_2 Value_3")
      */
     override fun addStringToBuilder(str: String) {
         if (str.isNotEmpty()) {
@@ -39,6 +41,8 @@ class ShihString(mStringBuilder: StringBuilder, siz: Float, show: Boolean) : Str
 
     /**
      * Удалить одну запись в конструкторе
+     * * Пример
+     * @param mShihString.deleteOneLine("Value_1")
      */
     override fun deleteOneLine(str: String): StringBuilder {
         if (stringBuilder.lastIndexOf(str) > -1 && stringBuilder.isNotEmpty())
@@ -68,6 +72,7 @@ class ShihString(mStringBuilder: StringBuilder, siz: Float, show: Boolean) : Str
 
     /**
      * Возврат StringBuilder
+     * @param mShihString.stringBuilder
      */
     override val stringBuilder: StringBuilder get() = mStringBuilder
 
